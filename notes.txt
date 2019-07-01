@@ -1,5 +1,0 @@
-- a way of organizing data that is stored in a computer or database
-- each type of data structure represents a different way of organizing data stored
-
-
-# constructor function and this keyword
